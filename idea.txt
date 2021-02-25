@@ -1,3 +1,4 @@
 Pollbot command ideas
   -poll- choice1/choice2
   (poll) choice1/choice2
+  /poll {option1: name}* time[seconds]
